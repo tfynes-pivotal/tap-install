@@ -1,4 +1,4 @@
-# Unofficial TAP 1.0 installation guide. 
+# Unofficial TAP 1.0 installation guide..
 
 This installation guide should help you to install TAP 1.0 with wildcard certificates and [external-dns](https://github.com/kubernetes-sigs/external-dns) to a Kubernetes cluster.
 
